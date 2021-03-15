@@ -1,0 +1,11 @@
+{
+    "exclude": [
+        "./tests",
+        "./node_modules",
+        "./dist"
+    ],
+    "entryPoints": [
+        "./src/ejercicio-clase.ts"
+    ],
+    "out": "./docs"
+}
